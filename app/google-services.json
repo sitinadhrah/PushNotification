@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "140326304328",
+    "firebase_url": "https://pushnadhrah.firebaseio.com",
+    "project_id": "pushnadhrah",
+    "storage_bucket": "pushnadhrah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140326304328:android:71c1578b147d39d3",
+        "android_client_info": {
+          "package_name": "com.example.acer.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140326304328-irnj6vikbeb4mcqa58h6401a7k456vd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiH-6PQKUzglrcUD_5Y0hzgBsWZxTZSmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
